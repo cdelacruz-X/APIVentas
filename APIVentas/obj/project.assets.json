@@ -810,11 +810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Xternal\\source\\repos\\APIVentas\\APIVentas\\APIVentas.csproj",
+      "projectUniqueName": "D:\\DesarrolloCesar\\Prueba\\APIVentas\\APIVentas\\APIVentas.csproj",
       "projectName": "APIVentas",
-      "projectPath": "C:\\Users\\Xternal\\source\\repos\\APIVentas\\APIVentas\\APIVentas.csproj",
+      "projectPath": "D:\\DesarrolloCesar\\Prueba\\APIVentas\\APIVentas\\APIVentas.csproj",
       "packagesPath": "C:\\Users\\Xternal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Xternal\\source\\repos\\APIVentas\\APIVentas\\obj\\",
+      "outputPath": "D:\\DesarrolloCesar\\Prueba\\APIVentas\\APIVentas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Xternal\\AppData\\Roaming\\NuGet\\NuGet.Config",

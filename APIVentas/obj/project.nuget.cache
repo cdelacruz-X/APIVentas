@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jdChaEur6XWKdEydGeu0jD4DMGwG8Bbq3z+quQmcscFohjMa3A5mn1JFC5M5MgTLdhYgIhXQZtGeeld1Ikj0nQ==",
+  "dgSpecHash": "wTkcoxQUgCg1cgnekSG05FGgumwf3VMxoj25y4pSfKALQF2vvbDyIk2Ca/KWYkCyp7Bf8w9YlB14VroeRXsIGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Xternal\\source\\repos\\APIVentas\\APIVentas\\APIVentas.csproj",
+  "projectFilePath": "D:\\DesarrolloCesar\\Prueba\\APIVentas\\APIVentas\\APIVentas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Xternal\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\Xternal\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",

@@ -21,7 +21,7 @@ namespace APIVentas.Controllers
         [Route("GetClienteList/")]
         public async Task<IActionResult> GetClienteList()
         {
-            return Ok(_databaseContext.Producto.ToList());
+            return Ok(_databaseContext.Cliente.ToList());
         }
         [HttpPost]
         [Route("PostCliente/")]
